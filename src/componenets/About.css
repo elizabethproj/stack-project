@@ -1,0 +1,44 @@
+.about-cont {
+  width: 65%;
+  padding: 40px;
+  line-height: 27px;
+  margin: 100px 0;
+}
+
+.about-text-cont.active {
+  display: none;
+}
+
+.about-text-cont {
+  display: block;
+}
+
+.about-header h1 {
+  margin-bottom: 70px;
+  font-size: 100px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+
+.about-text {
+  border: none;
+  padding: 0 30px;
+  border-left: 3px solid var(--grad-1);
+}
+
+@media only screen and (max-width: 600px) and (max-width: 564px) {
+  .about-cont {
+    width: 100%;
+    padding: 20px 10px;
+    margin: 0;
+  }
+
+  .about-header h1 {
+    font-size: 60px;
+  }
+
+  .about-text {
+    text-align: justify;
+    padding: 0 0px 0 20px;
+  }
+}

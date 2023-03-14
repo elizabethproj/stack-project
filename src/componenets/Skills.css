@@ -1,0 +1,29 @@
+.skills-cont {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills-listItem-head {
+  display: flex;
+  align-items: center;
+  border-left: 3px solid var(--grad-1);
+}
+
+.copyright {
+  margin: 10px;
+}
+
+@media only screen and (max-width: 600px) and (max-width: 564px) {
+  .skills-cont {
+    flex-flow: column;
+  }
+
+  .copyright {
+    text-align: center;
+  }
+}

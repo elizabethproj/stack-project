@@ -1,0 +1,107 @@
+:root {
+  --grad-1: #dba2a2;
+  --grad-2: #b14170;
+  --back: linear-gradient(
+    135deg,
+    var(--grad-2) 0%,
+    var(--grad-1) 50%,
+    var(--grad-2) 100%
+  );
+}
+
+.project-cont {
+  width: 30%;
+  padding: 5px 40px;
+  margin: 100px 0;
+}
+
+.project-list-container {
+  position: relative;
+  z-index: 100;
+  margin: 20px 0;
+  padding: 30px 30px 0 25px;
+}
+
+.project-list-container:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 50%;
+  width: 30%;
+  border-radius: 15px 0 0;
+  /* border:  linear-gradient(270deg,var(--grad-1)0%,var(--grad-2)100%); */
+  border-top: 3px solid var(--grad-1);
+  border-left: 3px solid var(--grad-1);
+  border-radius: 15px 0 0;
+  z-index: -1;
+}
+
+.project-header {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.list-item {
+  padding: 10px 20px;
+}
+
+.project-list-container .list,
+.project1-cont h3 a,
+.skills-content .skills-list li {
+  margin-bottom: 15px;
+  margin-left: 0px;
+  padding-bottom: 5px;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+.project-list-container .list li span,
+.project1-cont h3 a span,
+.skills-content .skills-list li span {
+  display: inline-block;
+  position: relative;
+  transition: all 0.3s ease-in-out 0s;
+}
+.project-list-container .list li span::before,
+.project1-cont h3 a span::before,
+.skills-content .skills-list li span::before {
+  content: "";
+  height: 1px;
+  width: 100%;
+  opacity: 1;
+  display: inline-block;
+  position: absolute;
+  bottom: -2px;
+  left: 0px;
+  right: 0px;
+  background: var(--back);
+  transition: all 0.3s ease-in-out 5s;
+}
+
+.project-list-container .list li span::after,
+.project1-cont h3 a span::after,
+.skills-content .skills-list li span::after {
+  content: "";
+  height: 1px;
+  width: 100%;
+  opacity: 0;
+  display: inline-block;
+  position: absolute;
+  bottom: -2px;
+  left: 0px;
+  right: 0px;
+  background: var(--back);
+  transition: all 0.6s ease-in-out 0s;
+}
+
+@media only screen and (max-width: 600px) and (max-width: 564px) {
+  .project-cont {
+    width: 100%;
+    padding: 30px 10px;
+    margin: 0;
+  }
+  .project-header {
+    font-size: 20px;
+  }
+}

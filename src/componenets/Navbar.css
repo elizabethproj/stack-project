@@ -1,0 +1,31 @@
+.navbar-cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px;
+  margin: 30px 0;
+}
+
+.logo h1 {
+  width: 20%;
+  font-size: 40px;
+}
+.menu {
+  width: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-icon {
+  color: #25192d;
+  /* color: rgb(200, 212, 164); */
+  font-size: 35px;
+}
+
+@media only screen and (max-width: 600px) and (max-width: 564px) {
+  .menu {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+  }
+}

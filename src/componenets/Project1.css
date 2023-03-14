@@ -1,0 +1,16 @@
+.project1-cont {
+  display: none;
+  transition: 0.5s;
+}
+
+.project1-cont p {
+  margin-top: 40px;
+}
+
+.project1-cont.active {
+  display: block;
+}
+
+.project-link {
+  padding: 20px 30px 0 0;
+}
