@@ -15,7 +15,7 @@ function Project2() {
         </p>
         <h3 className="project-link">
           <a
-            href="https://orangelineinterior.com"
+            href="https://www.orangelineinteriors.com"
             target="_blank"
             rel="noreferrer"
           >
