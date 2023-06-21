@@ -30,6 +30,9 @@ function Skills() {
           <li className="skills-listItem">
             <span>Nodejs</span>
           </li>
+          <li className="skills-listItem">
+            <span>MySQL</span>
+          </li>
         </ul>
       </div>
       <div className="copyright">
