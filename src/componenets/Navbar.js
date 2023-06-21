@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="navbar-cont">
       <div className="logo">
-        <h1>AE</h1>
+        <a href="#"><h1>AE</h1></a>
       </div>
       <div className="menu">
         <a
