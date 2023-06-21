@@ -18,11 +18,11 @@ function About({ open }) {
             </div>
             <div className={`about-text-cont`}>
               <p className="about-text">
-                I'm Elizabeth, and I've been a front-end developer for over two
+                Hiya! I'm Elizabeth, and I've been a Web developer for over three
                 years. I specialise in creating user-friendly and dynamic web
                 applications with a modern design aesthetic. I am well-versed in
                 a wide range of web technologies, including HTML, CSS,
-                JavaScript, React, and others. I also have a decent
+                JavaScript, React, PHP and others. I also have a decent
                 understanding of user experience (UX) and user interface (UI)
                 design principles.
                 <br />
