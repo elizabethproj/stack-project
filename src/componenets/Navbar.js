@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="navbar-cont">
       <div className="logo">
-        <a href="#"><h1>AE</h1></a>
+        <a href="https://elizabethadegunwa.netlify.app/"><h1>AE</h1></a>
       </div>
       <div className="menu">
         <a
