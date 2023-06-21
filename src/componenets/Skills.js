@@ -19,16 +19,16 @@ function Skills() {
             <span>React</span>
           </li>
           <li className="skills-listItem">
-            <span>GIT</span>
-          </li>
-          <li className="skills-listItem">
             <span>Bootsrap</span>
           </li>
           <li className="skills-listItem">
             <span>Github</span>
           </li>
           <li className="skills-listItem">
-            <span>Terminal</span>
+            <span>PHP</span>
+          </li>
+          <li className="skills-listItem">
+            <span>Nodejs</span>
           </li>
         </ul>
       </div>
