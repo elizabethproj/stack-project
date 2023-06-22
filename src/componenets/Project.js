@@ -19,7 +19,7 @@ function Project({ toggle }) {
               <span>Uranvibes London</span>
             </li>
             <li className="list-item" onClick={() => toggle("open4")}>
-              <span>Minutes Calculator</span>
+              <span>Rose Hotel</span>
             </li>
             <li className="list-item" onClick={() => toggle("open5")}>
               <span>CrowdFunding</span>
