@@ -3,22 +3,14 @@ function Project4() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Minutes Calculator</h2>
+        <h2>Rose Hotel</h2>
       </div>
       <div className="about-text">
         <p>
-          The minutes between two timings can be easily and quickly calculated
-          using this minute calculator. I decided to take on this challenge
-          because at my previous part-time job, we had to figure out how many
-          minutes were spent on each task, and some of my coworkers had trouble
-          doing that. The project I built, however, made the calculation a lot
-          quicker. It wasn't much, but even so, it made me feel challenged and
-          problem-solving-oriented. This app calculates minutes, seconds, and
-          hours based on user input.This project was created with HTML, CSS and
-          React.
+         The Rose Hotel Project is a responsive landing page built with PHP, CSS, SASS, WordPress and MySQL. As a WordPress Developer, I am responsible for creating a customized design that reflects the hotel's unique aesthetic, as well as configuring & managing all necessary plugins required to ensure the project is optimized for the best user experience. Additionally, I am responsible for integrating all of the back-end data into the WordPress database so that necessary feature & content updates are reflected within the project.
         </p>
         <h3 className="project-link">
-          <a href="https://sl6j9e.csb.app/" target="_blank" rel="noreferrer">
+          <a href="http://rosehotel.x10.mx target="_blank" rel="noreferrer">
             <span>View Site</span>
           </a>
           <br />
