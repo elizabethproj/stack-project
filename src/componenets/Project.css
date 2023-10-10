@@ -63,10 +63,10 @@
   text-decoration: none;
 }
 
-.project-list-container .list:hover,
+.project-list-container .list .list-item:hover,
 .project1-cont h3 a:hover,
 .skills-content .skills-list li:hover {
-   color: #fff;
+   color: #040305;
    letter-spacing: 1px;
 }
 
