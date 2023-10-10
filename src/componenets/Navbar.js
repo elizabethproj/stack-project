@@ -7,20 +7,20 @@ function Navbar() {
   return (
     <div className="navbar-cont">
       <div className="logo">
-        <a href="https://elizabethadegunwa.netlify.app/"><h1>AE</h1></a>
+        <a aria-label="meun logo" href="https://elizabethadegunwa.netlify.app/"><h1>AE</h1></a>
       </div>
       <div className="menu">
-        <a
+        <a aria-label="email icon"
           href="mailto:adegunwaanu@gmail.com?subject=Mail%20from%20dunks1980.com"
           target="_blank"
           rel="noopener"
         >
           <SiGmail className="menu-icon" />
         </a>
-        <a href="https://github.com/beth-codes" target="_blank" rel="noopener">
+        <a aria-label="github icon" href="https://github.com/beth-codes" target="_blank" rel="noopener">
           <AiOutlineGithub className="menu-icon" />
         </a>
-        <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">
+        <a aria-label="linkedin icon" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">
           <ImLinkedin2 className="menu-icon" />
         </a>
       </div>

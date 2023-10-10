@@ -19,7 +19,7 @@ function Skills() {
             <span>React</span>
           </li>
           <li className="skills-listItem">
-            <span>Bootsrap</span>
+            <span>jQuery</span>
           </li>
           <li className="skills-listItem">
             <span>Github</span>

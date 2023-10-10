@@ -1,6 +1,5 @@
 .about-cont {
-  width: 65%;
-  padding: 40px;
+  width: 50%;
   line-height: 27px;
   margin: 100px 0;
 }
@@ -22,7 +21,7 @@
 
 .about-text {
   border: none;
-  padding: 0 30px;
+  padding: 0 40px;
   border-left: 3px solid var(--grad-1);
 }
 

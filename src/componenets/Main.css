@@ -1,7 +1,16 @@
+.main-cont{
+   grid-area: main-cont;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+
+}
 .flex-cont {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: space-around;
+  padding-inline: 5rem;
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */

@@ -7,18 +7,18 @@
 body {
   background: rgb(200, 212, 164);
   color: #25192d;
-  max-width: 100%;
-  height: 100vh;
-  display: flex;
+  height: 100vh; 
+  /* max-width: 100%;
+  /* display: flex;
   justify-content: center;
   align-self: center;
-  align-items: center;
+  align-items: center; */
   font-size: 14px;
 }
 
-#root {
+/* #root {
   max-width: 95%;
-}
+} */
 
 ul {
   list-style: none;
@@ -35,6 +35,6 @@ a {
 
 @media only screen and (max-width: 600px) and (max-width: 564px) {
   body {
-    height: auto;
+    /* height: auto; */
   }
 }

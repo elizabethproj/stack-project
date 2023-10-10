@@ -4,18 +4,15 @@ function Project2() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Orangeline Interior</h2>
+        <h2>Beth Plugins</h2>
       </div>
       <div className="about-text">
         <p>
-          Orangeline Interior Design is an interior design firm. This website
-          displays a wide range of products provided and includes a contact form
-          in which users can contact the company. This project was created with
-          HTML, CSS and JavaScript.
+          Beth Plugins is a custom wordpress theme created mainly for showcasing custom plugins, currently has two functional plugins, customized Contact Form and Tag Category for better organization of contents. This project was created with PHP, CSS, SASS, JavaScript and jQuery. 
         </p>
         <h3 className="project-link">
           <a
-            href="https://www.orangelineinteriors.com"
+            href="https://orangelineinteriors.com"
             target="_blank"
             rel="noreferrer"
           >

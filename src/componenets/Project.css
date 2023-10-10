@@ -46,6 +46,13 @@
   padding: 10px 20px;
 }
 
+.list-item span{
+   cursor: pointer;
+   transition: all .3s ease-in-out;
+   display: inline-block;
+   position: relative;
+}
+
 .project-list-container .list,
 .project1-cont h3 a,
 .skills-content .skills-list li {
@@ -54,6 +61,13 @@
   padding-bottom: 5px;
   line-height: 1.5;
   text-decoration: none;
+}
+
+.project-list-container .list:hover,
+.project1-cont h3 a:hover,
+.skills-content .skills-list li:hover {
+   color: #fff;
+   letter-spacing: 1px;
 }
 
 .project-list-container .list li span,
