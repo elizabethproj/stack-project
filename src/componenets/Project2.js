@@ -8,7 +8,7 @@ function Project2() {
       </div>
       <div className="about-text">
         <p>
-          Beth Plugins is a custom wordpress theme created mainly for showcasing custom plugins, currently has two functional plugins, customized Contact Form and Tag Category for better organization of contents. This project was created with PHP, CSS, SASS, JavaScript and jQuery. 
+          Beth Plugins is a custom WordPress theme created mainly for showcasing custom plugins, currently has two functional plugins, a customized Contact Form and a Tag Category for better organization of contents. This project was developed using a combination of PHP, CSS, SASS, JavaScript and jQuery. 
         </p>
         <h3 className="project-link">
           <a
