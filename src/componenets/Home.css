@@ -5,7 +5,7 @@
    width: 95vw;
    margin: auto;
    display: grid;
-   grid-gap: 4rem;
+   grid-gap: 2rem;
    grid-template-areas: "navbar-cont navbar-cont  navbar-cont  navbar-cont"
    "main-cont main-cont main-cont main-cont";
    grid-template-rows: 15vh 75vh;
