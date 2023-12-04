@@ -18,19 +18,9 @@ function About({ open }) {
             </div>
             <div className={`about-text-cont`}>
               <p className="about-text">
-                Hiya! I'm Elizabeth, and I've been a Web developer for over three
-                years. I specialise in creating user-friendly and dynamic web
-                applications with a modern design aesthetic. I am well-versed in
-                a wide range of web technologies, including HTML, CSS,
-                JavaScript, React, PHP and others. I also have a decent
-                understanding of user experience (UX) and user interface (UI)
-                design principles.
-                <br />
-                My portfolio showcases some of my recent projects, which
-                demonstrate my ability to create websites and web applications
-                that are visually appealing, responsive, and optimized for
-                search engines. If you would like to discuss my portfolio
-                further, please don't hesitate to reach out. Thank you
+                Hello! I'm Elizabeth, a Web developer with over three years of experience. My expertise lies in creating modern, user-friendly, and dynamic web applications. I have good experience with various web technologies such as HTML, CSS, JavaScript, React, and PHP, among others. Additionally, I have a good understanding of UX and UI design principles.
+                  <br/>
+                In my portfolio, you can find some of my recent projects that highlight my ability to create visually appealing, responsive, and SEO-optimized websites and web applications. If you'd like to discuss my portfolio in more detail, please feel free to reach out to me. Thank you!
               </p>
             </div>
           </div>
