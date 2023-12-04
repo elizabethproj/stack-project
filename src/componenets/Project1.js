@@ -8,7 +8,7 @@ function Project1() {
       <div className="about-text">
         <p>
           This project was gotten via devChallenges, and I choose to build it in
-          order to enhance my react skills.This project involves creating an
+          order to enhance my react skills. This project involves creating an
           Airbnb website where users can check the availability of rooms based
           on the number of guests and the city they choose to stay in. This
           project was created with HTML, CSS and React.

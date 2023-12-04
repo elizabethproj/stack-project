@@ -12,17 +12,17 @@ function Project({ toggle }) {
             <li className="list-item" onClick={() => toggle("open1")}>
               <span>Windbnb</span>
             </li>
-            <li className="list-item" onClick={() => toggle("open2")}>
-              <span>Beth Plugins</span>
-            </li>
-            <li className="list-item" onClick={() => toggle("open3")}>
-              <span>Uranvibes London</span>
+            <li className="list-item" onClick={() => toggle("open5")}>
+              <span>Monriad</span>
             </li>
             <li className="list-item" onClick={() => toggle("open4")}>
               <span>Beth Library</span>
             </li>
-            <li className="list-item" onClick={() => toggle("open5")}>
-              <span>CrowdFunding</span>
+            <li className="list-item" onClick={() => toggle("open3")}>
+              <span>Uranvibes London</span>
+            </li>
+            <li className="list-item" onClick={() => toggle("open2")}>
+              <span>Beth Plugins</span>
             </li>
           </ul>
         </div>

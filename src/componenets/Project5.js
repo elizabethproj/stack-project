@@ -4,17 +4,16 @@ function Project5() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>CrowdFunding</h2>
+        <h2>Monriad</h2>
       </div>
       <div className="about-text">
         <p>
-          CrowdFunding is a Frontend Mentor project that I chose to create in
-          order to improve my JavaScript skills. This project was created with
-          HTML, CSS and JavaScript.
+        Monriad is an innovative custom theme with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients with an immersive visual experience. The project was implemented using PHP, CSS, SASS, WordPress, JavaScript, and jQuery. 
+        This project was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
         <h3 className="project-link">
           <a
-            href="https://wonderful-goldberg-4b0d44.netlify.app/"
+            href="https://monriad.net/"
             target="_blank"
             rel="noreferrer"
           >
