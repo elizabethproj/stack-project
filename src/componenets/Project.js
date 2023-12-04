@@ -13,7 +13,7 @@ function Project({ toggle }) {
               <span>Windbnb</span>
             </li>
             <li className="list-item" onClick={() => toggle("open5")}>
-              <span>Monriad</span>
+              <span>MonRiad</span>
             </li>
             <li className="list-item" onClick={() => toggle("open4")}>
               <span>Beth Library</span>
