@@ -8,8 +8,7 @@ function Project2() {
       </div>
       <div className="about-text">
         <p>
-         Ray's project was implemented using HTML, CSS/SASS, JavaScript, React, WordPress, and PHP ensuring a seamless and responsive user experience across different devices. The website includes various custom blocks and interactive elements, enhancing the overall aesthetic appeal and engagement for users.
-        </p>
+Ray's project was developed using HTML, CSS/SASS, JavaScript, React, WordPress, and PHP to ensure a flawless and adaptable user experience on different devices. It features a creative custom theme with numerous custom blocks and interactive elements, enhancing the overall visual appeal and user engagement.        </p>
         <h3 className="project-link">
           <a
             href="https://raylutzky.com/"
