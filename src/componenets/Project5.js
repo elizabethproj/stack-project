@@ -8,7 +8,7 @@ function Project5() {
       </div>
       <div className="about-text">
         <p>
-        MonRiad is an innovative custom theme with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients with an immersive visual experience. The project was implemented using PHP, CSS, SASS, WordPress, JavaScript, and jQuery.
+        MonRiad is an innovative custom theme with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients with an immersive visual experience. The project was implemented using PHP, ACF, CSS, SASS, WordPress, JavaScript, and jQuery.
       <br/>
         MonRiad was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
