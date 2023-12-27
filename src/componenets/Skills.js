@@ -19,6 +19,9 @@ function Skills() {
             <span>React</span>
           </li>
           <li className="skills-listItem">
+            <span>TypeScript</span>
+          </li>
+          <li className="skills-listItem">
             <span>jQuery</span>
           </li>
           <li className="skills-listItem">
