@@ -20,7 +20,7 @@ function Navbar() {
         <a aria-label="github icon" href="https://github.com/beth-codes" target="_blank" rel="noopener">
           <AiOutlineGithub className="menu-icon" />
         </a>
-        <a aria-label="linkedin icon" href="https://www.linkedin.com/feed/" target="_blank" rel="noopener">
+        <a aria-label="linkedin icon" href="https://www.linkedin.com/in/elizabeth-adegunwa-4708b11b5" target="_blank" rel="noopener">
           <ImLinkedin2 className="menu-icon" />
         </a>
       </div>
