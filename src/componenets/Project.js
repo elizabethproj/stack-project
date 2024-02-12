@@ -9,9 +9,6 @@ function Project({ toggle }) {
         </div>
         <div className="project-list-container">
           <ul className="list">
-            <li className="list-item" onClick={() => toggle("open1")}>
-              <span>Windbnb</span>
-            </li>
             <li className="list-item" onClick={() => toggle("open5")}>
               <span>MonRiad</span>
             </li>
@@ -19,7 +16,10 @@ function Project({ toggle }) {
               <span>Beth Library</span>
             </li>
             <li className="list-item" onClick={() => toggle("open3")}>
-              <span>Uranvibes London</span>
+              <span>Abbey House Hotel</span>
+            </li>
+            <li className="list-item" onClick={() => toggle("open1")}>
+              <span>Windbnb</span>
             </li>
             <li className="list-item" onClick={() => toggle("open2")}>
               <span>Ray's Portfolio</span>
