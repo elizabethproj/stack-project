@@ -11,7 +11,7 @@ function Navbar() {
       </div>
       <div className="menu">
         <a aria-label="email icon"
-          href="mailto:adegunwaanu@gmail.com?subject=Mail%20from%20dunks1980.com"
+          href="mailto:adegunwaanu@gmail.com?subject=Mail%20from%20elizabethadegunwa.netlify.app"
           target="_blank"
           rel="noopener"
         >
